@@ -1,0 +1,13 @@
+{
+  "_id": "google",
+  "Provider": "GCP",
+  "location": {
+              "North America" : ["northamerica_northeast_1","us_central_1","us_east_1","us_east_4","us_west_1","us_west_2","us_west_3","us_west_4"],
+              "South America" : ["southamerica_east_1"],
+              "Asia Pacific" : ["asia_east_1","asia_east_2","asia_northeast_1","asia_northeast_2","asia_northeast_3","asia_south_1","asia_south_2","asia_southeast_1","asia_southeast_2","australia_southeast_1","australia_southeast_2"],
+              "South Africa" : [],
+              "Middle East" : [],
+              "Europe" : ["europe_central_2","europe_north_1","europe_west_1","europe_west_2","europe_west_3","europe_west_4","europe_west_6"],
+              "Canada" : []
+            }
+}

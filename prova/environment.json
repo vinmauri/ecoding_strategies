@@ -1,0 +1,18 @@
+[{
+  "_id":"azure",
+  "Provider": "Azure",
+  "Total_Renewable_Energy_Portfolio(GW)": 1.9,
+  "Score": 21.1111111111
+},
+{
+  "_id":"google",
+  "Provider": "GCP",
+  "Total_Renewable_Energy_Portfolio(GW)": 5.5,
+  "Score": 61.1111111111
+},
+{
+  "_id": "aws",
+  "Provider": "AWS",
+  "Total_Renewable_Energy_Portfolio(GW)": 1.6,
+  "Score": 17.7777777778
+}]

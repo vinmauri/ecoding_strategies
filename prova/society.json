@@ -1,0 +1,37 @@
+[
+{
+  "_id":"North America",
+  "name": "North America",
+  "Score": 75.05
+},
+
+{
+  "_id":"South America",
+  "name": "South America",
+  "Score": 72.80
+},
+{
+  "_id":"Asia Pacific",
+  "name": "Asia Pacific",
+  "Score": 79.58
+},
+{
+  "_id":"South Africa",
+  "name": "South Africa",
+  "Score": 57.89
+},
+{
+  "_id": "Middle East",
+  "name": "Middle East",
+  "Score": 66.07
+},
+{
+  "_id":"Europe",
+  "name": "Europe",
+  "Score": 81.19
+},
+{
+  "_id":"Canada",
+  "name": "Canada",
+  "Score": 77.73
+}]

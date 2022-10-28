@@ -1,0 +1,8 @@
+light operation (mail,messagging, storage):
+2 cpu, 30 gb drive, 8 ram (per user)
+
+medium operation (crm,erp,grc):
+4 cpu, 30 gb drive, 16 ram (per user)
+
+heavy operation (software develpoment, ai eng):
+8 cpu, 30 gb drive, 32 ram (per user)

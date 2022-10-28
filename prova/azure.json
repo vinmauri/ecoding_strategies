@@ -1,0 +1,13 @@
+{
+  "_id": "azure",
+  "Provider": "Azure",
+  "location": {
+                "North America" : ["central_us", "east_us", "east_us_2","east_us_3"],
+                "South America" : ["brazil","brazil_south","brazil_south_east"],
+                "Asia Pacific" : ["australia","australia_central","australia_central_2","australia_east","australia_south_east", "japan","japan_east","japan_west","korea","korea_east","korea_south"],
+                "South Africa" : ["south_africa","south_africa_north","south_africa_west"],
+                "Middle East" : ["india","india_central","india_south","india_west"],
+                "Europe" : ["france","france_central","france_south","germany","germany_north","germany_west_central","north_europe"],
+                "Canada" : ["canada","canada_central","canada_east"]
+              }
+}
